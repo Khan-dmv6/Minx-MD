@@ -21,10 +21,10 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['918590451659']
-global.premium = ['918590451659']
-global.ownernomer = '918590451659'
-global.ownername = '🦄Dream Guy iiuzi'
+global.owner = ['923077900642']
+global.premium = ['923077900642']
+global.ownernomer '923077900642
+global.ownername = '🦄devil 🤴 king
 global.botname = 'Minx Bot MD'
 global.footer = 'iiuzi Bot Inc.'
 global.ig = 'https://github.com/iiuzi-0x'
